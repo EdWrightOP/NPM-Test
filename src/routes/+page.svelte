@@ -2,8 +2,7 @@
     import Footer from "$lib/Footer.svelte";
     import Header from "../lib/Header.svelte";
 </script>
-<Header/>
-<h1>Welcome to SvelteKit</h1>
+<Header headingTitle="Home Page"/>
 
 <Footer year={1500}/>
 <br>
